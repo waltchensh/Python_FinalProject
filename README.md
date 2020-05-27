@@ -1,7 +1,19 @@
 # Python Final Project
 
-### Project Inspiration:
-#### For our final project of the python class, we chose a topic that is pretty similar to our final exam, it combines the questions 1, 3, and 4 of our final exam. We was also inspired from a website which is called “Finlab”. It’s a kind of website that teaches people how to type some easy codes of python and use those codes to do web crawler in some financial purposes. 
+### Project Inspiration :
+<hr>
+    For our final project of the python course, we choose a topic that is pretty similar to our final exam. <br>
+    It combines the question 1, 3, and 4 of our final exam. <br>
+    We was also inspired from a website which is called “Finlab”. <br>
+    It’s a kind of website that teaches people how to use python to do web crawler in some financial purposes. 
 
 ### Project Description:
-#### In this project, we used the techniques taught from the last few classes of this semester, such as pandas, plot method, GUI...etc. To use this program, users will be asked to input a stock id in Taiwan market in a GUI interface, and the csv file name that users want to save for their stock data which they just input. And also users can choose to search the data info of the stock in a specific time period. Users can input not only a specific date for their stock, but also a whole month if users want to. Then, after input all the data needed that mentioned above in the GUI, user will need to click on the button on the GUI. The program will then output the url of the website we set to find the stock info, which is from Yahoo!. And also other info that users input will show on the GUI. After that, program will draw(plot) the trend of that stock, and also print out the information of the stock on the python main interface, which only show the time period that users input.     
+<hr>
+    In this project, we use the techniques taught from the last few lessons of 2019 fall semester, such as pandas, plot method, GUI...etc.<br>
+    At first, users will be asked to input a stock ID number from Taiwanese market to the GUI interface, and also input the '.csv' file name that users want to save for their stock data which they just input the ID. <br>
+    And also, users can choose to search the stock data in a specific time period. <br>
+    Users can input not only a specific date for their stock, but also a whole month if users want to. <br>
+    After input all the info needed that mentioned above, users will need to click on the button on the GUI. <br>
+    The program will then output the url of the website we set to find the stock data, which is actually from 'Yahoo!'. <br>
+    And also other info that users input will show on the GUI. <br>
+    After that, program will draw/plot the trend of that stock, and also print out the information of the stock on the python main interface, which only show the data during the time period that users searched for.     
