@@ -4,7 +4,7 @@
 <hr>
     For the final project of the python course, I choose a topic that is pretty similar to the final exam. <br>
     It combines the question 1, 3, and 4 of the final exam. <br>
-    I was also inspired from the website `Finlab`. <br>
+    I was also inspired from the website ` Finlab `. <br>
     It’s a kind of website that teaches people how to use python to do web crawler in some financial purposes. 
 
 ### Project Description:
